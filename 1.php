@@ -1,1 +1,4 @@
-
+{
+  "domain": "http://",
+  "enabled": true
+}
